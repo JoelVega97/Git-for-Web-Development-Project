@@ -2,7 +2,8 @@ linked to my codepen: https://codepen.io/joelvega97/pen/VweXBzq?editors=1000
 
     1. What is Semantic HTML?
     HTML used to mark up a web page. 
-    2. What is HTML used for? 
+    2. What is HTML used for?
+    Html is used to mark up a page. 
     3. What is an attribute and where do we put it? 
     An attribute is a way to supply data in an element, we out it where we don't want things to show up on the page 
     4. What is the h1 tag used for? How many times should I use it on a page?
